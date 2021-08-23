@@ -32,7 +32,7 @@ natsort==5.0.1
 nbconvert==4.2.0
 nbformat==4.1.0
 
-notebook==4.2.3
+notebook==6.4.1
 pexpect==4.2.1
 pickleshare==0.7.4
 piexif==1.0.8
