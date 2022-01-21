@@ -13,7 +13,7 @@ entrypoints==0.2.2
 ghp-import2==1.0.1
 husl==4.0.3
 ipykernel==4.5.0
-ipython==5.1.0
+ipython==7.16.3
 ipython-genutils==0.1.0
 ipywidgets==5.2.2
 Jinja2==2.8
