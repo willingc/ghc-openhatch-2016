@@ -29,7 +29,7 @@ Markdown==2.6.7
 MarkupSafe==0.23
 mistune==0.7.3
 natsort==5.0.1
-nbconvert==4.2.0
+nbconvert==6.5.1
 nbformat==4.1.0
 
 notebook==4.2.3
