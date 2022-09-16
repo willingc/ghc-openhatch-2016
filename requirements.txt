@@ -24,7 +24,7 @@ jupyter-core==4.2.0
 Logbook==1.0.0
 lxml==3.6.4
 MacFSEvents==0.7
-Mako==1.0.4
+Mako==1.2.2
 Markdown==2.6.7
 MarkupSafe==0.23
 mistune==0.7.3
